@@ -3,3 +3,5 @@ pandas
 numpy
 plotly
 geopy
+joblib
+scikit-learn
